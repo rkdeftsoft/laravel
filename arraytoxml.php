@@ -1,7 +1,7 @@
 <?php 
 
 
-how to make array to xml in php
+How to make array to xml in php
 <?php
 $test_array = array (
   'bla' => 'blub',
